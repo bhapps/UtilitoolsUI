@@ -1,12 +1,3 @@
-/*
-    *
-    * BH Apps
-    * version 0.0.2
-    * Contains methods for UI interaction
-    * bhapps.utilitools.ui.kotlin.helpers
-    *
-*/
-
 package bhapps.utilitools.ui.kotlin.helpers
 
 import android.R

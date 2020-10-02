@@ -1,4 +1,4 @@
-package bhapps.utilitools.kotlin.ui.views.generate
+package bhapps.utilitools.ui.kotlin.views.generate
 
 class CardViews {
 
